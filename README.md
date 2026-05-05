@@ -1,2 +1,4 @@
 # Lab 5 - Starter
-Make sure you make a PR to your own repo's main and not the class' repo!! Otherwise you will lose points!!
+Name: Xuanye Wang
+`expose.html` site URL: https://keeevinw.github.io/Lab5_Starter/expose.html
+`explore.html` site URL: https://keeevinw.github.io/Lab5_Starter/explore.html
